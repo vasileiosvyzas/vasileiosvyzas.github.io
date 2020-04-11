@@ -10,7 +10,7 @@ Docker is a tool that allows to built containers. Containers are isolated enviro
 Containers are useful because they allow a develop to package up their application and all its parts (the stack it runs on, libraries and dependencies) in that isolated environment and share the application with the developers, sys admins across different machines and environments. Basically, it gets rid of the old headache of 'it works on my machine'
 
 ## Containers are not VMs
-![alt text](/image/docker/containers_photo.png)
+![alt text](/images/docker/containers_photo.png)
 
 - Containers virtualize the operating systems, VMs virtualize the hardware
 - Multiple containers can run on the same machine and share the host OS kernel with other containers, multiple VMs can run on the same machine but each VM has a copy of an operating system.
