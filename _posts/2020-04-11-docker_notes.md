@@ -2,8 +2,6 @@
 title: "Docker notes"
 date: 2020-04-11
 tags: [docker]
-header:
-  image: "/images/docker/docker.jpeg"
 ---
 
 ## What is it?
