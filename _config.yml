@@ -94,7 +94,7 @@ analytics:
 # Site Author
 author:
   name             : "Vasileios Vyzas"
-  avatar           : "/image/london.jpeg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/images/london.jpeg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Data sciene notes and resources"
   location         : "London, UK"
   email            :
