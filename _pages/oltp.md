@@ -1,6 +1,6 @@
 ---
 layout: archive
-permalink: /doltp/
+permalink: /oltp/
 title: "OLTP database notes"
 author_profile: true
 ---
