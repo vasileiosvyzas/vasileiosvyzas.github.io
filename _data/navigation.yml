@@ -4,6 +4,8 @@ main:
     url: /about/
   - title: "Docker notes"
     url: /docker/
+  - title: "Data Architecture"
+    url: /oltp/
   # - title: "About"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
   # - title: "Sample Posts"
