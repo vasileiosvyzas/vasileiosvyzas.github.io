@@ -4,7 +4,7 @@ permalink: /docker/
 title: "Doker notes"
 author_profile: true
 header:
-  image: "/images/docker/docker.jpeg"
+  image: "/images/docker/docker.png"
 ---
 
 {% include group-by-array collection=site.posts field="tags" %}
